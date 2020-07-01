@@ -27,4 +27,14 @@ https://youtu.be/OK_JCtrrv-c
 
 https://youtu.be/rfscVS0vtbw
 
-# More Coming Soon
+# Learn Computer Networking
+
+One has to learn about the basics of inter-networking, IP addresses, MAC addresses, OSI stack(and TCP/IP stack). You can learn it from the following resources
+
+https://www.geeksforgeeks.org/computer-network-tutorials/
+
+TCP/IP Guide: https://scanlibs.com/tcp-ip-guide-comprehensive-illustrated-protocols/
+
+http://www.tcpipguide.com/free/t_toc.htm
+
+This will be enough to understand computer networking
